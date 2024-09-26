@@ -26,4 +26,6 @@ public class ResponseRestController {
     public Star helloClassJson() {
         return new Star("Robbie", 95);
     }
+
+
 }
